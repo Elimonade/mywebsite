@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KEKSE's Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>Welcome to KEKSE's World</h1>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hey there! I'm KEKSE. Check out my content on YouTube and join the community on Discord!</p>
+    </section>
+
+    <section id="social-links">
+        <h2>Find Me Online</h2>
+        <div class="social-buttons">
+            <a href="https://www.youtube.com/YOUR_CHANNEL_ID" class="social-button youtube">YouTube</a>
+            <a href="https://discord.gg/YOUR_DISCORD_INVITE" class="social-button discord">Discord</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 KEKSE. All rights reserved.</p>
+    </footer>
+</body>
+</html>
